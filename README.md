@@ -3,10 +3,7 @@
 A desktop app for generating random passwords. Choose a strength, how many digits and special characters you want, and the password is copied to your clipboard.
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ConnorJosephDavies/ConnorJosephDavies/main/assets/password-generator-dark.svg" />
-    <img src="https://raw.githubusercontent.com/ConnorJosephDavies/ConnorJosephDavies/main/assets/password-generator-light.svg" alt="Password Generator app window" width="520" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/ConnorJosephDavies/ConnorJosephDavies/main/assets/password-generator-dark.svg" alt="Password Generator app window" width="520" />
 </p>
 
 ## Features
